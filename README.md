@@ -4,7 +4,7 @@
 Hello everyone!
 
 This little program will help you to draw a diagonal star! You just have to insert a number greater than 5.
-The patterns I've used for drawing asterisks while creating: <br>
+The patterns I've used for drawing asterisks while creating a figure: <br>
 <i>if row or column equals 1 <br>
    if row or column equals the inserted number<br>
    if row == column (diagonal: from top to bottom)<br>
